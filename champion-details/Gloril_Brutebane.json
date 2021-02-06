@@ -3,7 +3,7 @@
   "class": {
     "faction": "Dwarves",
     "rarity": "Rare",
-    "role": "Attack",
+    "role": "Support",
     "affinity": "Spirit"
   },
   "stats": {
@@ -20,9 +20,7 @@
     {
       "cd": 0,
       "mincd": 0,
-      "dmgscaling": [
-        "ATK"
-      ],
+      "dmgscaling": ["ATK"],
       "abilityname": "Scale Hacker",
       "description": "Attacks 1 enemy 2 times. Each hit has a 30% chance of placing a 30% [Decrease DEF] debuff for 2 turns.",
       "books": [
@@ -35,9 +33,7 @@
     {
       "cd": 4,
       "mincd": 3,
-      "dmgscaling": [
-        "ATK"
-      ],
+      "dmgscaling": ["ATK"],
       "abilityname": "Prey Acquired",
       "description": "Attacks 1 enemy. Damage increases by 5% for each debuff on the target.",
       "books": [
@@ -50,9 +46,7 @@
     {
       "cd": 5,
       "mincd": 4,
-      "dmgscaling": [
-        "ATK"
-      ],
+      "dmgscaling": ["ATK"],
       "abilityname": "Heroic Company",
       "description": "Attacks 1 enemy. Places a 15% [Increase C.RATE] buff on all allies for 2 turns if this attack is critical.",
       "books": [

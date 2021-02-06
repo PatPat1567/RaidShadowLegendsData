@@ -20,9 +20,7 @@
     {
       "cd": 0,
       "mincd": 0,
-      "dmgscaling": [
-        "ATK"
-      ],
+      "dmgscaling": ["ATK"],
       "abilityname": "Banisher Axe",
       "description": "Attacks 1 enemy. Has a 25% chance of placing a [Block Cooldown Skills] debuff for 1 turn.",
       "books": [
@@ -38,12 +36,11 @@
     {
       "cd": 3,
       "mincd": 3,
-      "dmgscaling": [
-        "ATK"
-      ],
+      "dmgscaling": ["ATK"],
       "abilityname": "Stern Punishment",
-      "description": "Level 2: Damage +5%",
+      "description": "Attacks 1 enemy. Has a 40% chance of placing a [Stun] debuff for 1 turn if the target is under any debuff.",
       "books": [
+        "Level 2: Damage +5%",
         "Level 3: Damage +5%",
         "Level 4: Buff/Debuff Chance +5%",
         "Level 5: Buff/Debuff Chance +5%"
