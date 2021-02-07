@@ -180,8 +180,8 @@
       "affinity": "spirit",
       "faction": "Ogryn Tribes",
       "role": "support",
-      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Drokgul the Gaunt.png",
-      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Drokgul the Gaunt.json"
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Drokgul_the_Gaunt.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Drokgul_the_Gaunt.json"
     },
     "Duchess Lilitu": {
       "rarity": "legendary",
@@ -267,8 +267,8 @@
       "affinity": "force",
       "faction": "Ogryn Tribes",
       "role": "support",
-      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Gurptuk Moss-Beard.png",
-      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Gurptuk Moss-Beard.json"
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Gurptuk_Moss-Beard.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Gurptuk_Moss-Beard.json"
     },
     "Hakkorhn Smashlord": {
       "rarity": "legendary",
@@ -323,8 +323,8 @@
       "affinity": "force",
       "faction": "Barbarians",
       "role": "defense",
-      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Kantra the Cyclone.png",
-      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Kantra the Cyclone.json"
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Kantra_the_Cyclone.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Kantra_the_Cyclone.json"
     },
     "Khoronar": {
       "rarity": "legendary",
@@ -394,7 +394,7 @@
       "affinity": "void",
       "faction": "Dark Elves",
       "role": "support",
-      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Lydia the Deathsiren.json"
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Lydia_the_Deathsiren.json"
     },
     "Lyssandra": {
       "rarity": "legendary",
@@ -663,8 +663,8 @@
       "affinity": "magic",
       "faction": "Orcs",
       "role": "support",
-      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Teela Goremane.png",
-      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Teela Goremane.json"
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Teela_Goremane.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Teela_Goremane.json"
     },
     "Tomb Lord": {
       "rarity": "legendary",
@@ -711,8 +711,8 @@
       "affinity": "void",
       "faction": "Barbarians",
       "role": "hp",
-      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Ursuga Warcaller.png",
-      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Ursuga Warcaller.json"
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Ursuga_Warcaller.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Ursuga_Warcaller.json"
     },
     "Valkyrie": {
       "rarity": "legendary",
@@ -743,8 +743,8 @@
       "affinity": "void",
       "faction": "Dark Elves",
       "role": "defense",
-      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Visix the Unbowed.png",
-      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Visix the Unbowed.json"
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Visix_the_Unbowed.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Visix_the_Unbowed.json"
     },
     "Vizier Ovelis": {
       "rarity": "legendary",
@@ -871,8 +871,8 @@
       "affinity": "force",
       "faction": "Barbarians",
       "role": "hp",
-      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Baroth the Bloodsoaked.png",
-      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Baroth the Bloodsoaked.json"
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Baroth_the_Bloodsoaked.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Baroth_the_Bloodsoaked.json"
     },
     "Basher": {
       "rarity": "epic",
@@ -1138,13 +1138,13 @@
       "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Galkut.png",
       "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Galkut.json"
     },
-    "Ghrush the Manglet": {
+    "Ghrush the Mangler": {
       "rarity": "epic",
       "affinity": "spirit",
       "faction": "Ogryn Tribes",
       "role": "defense",
-      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Ghrush the Manglet.png",
-      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Ghrush the Manglet.json"
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Ghrush_the_Mangler.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Ghrush_the_Mangler.json"
     },
     "Golden Reaper": {
       "rarity": "epic",
@@ -1711,8 +1711,8 @@
       "affinity": "force",
       "faction": "Demonspawn",
       "role": "support",
-      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Tainix Hateflower.png",
-      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Tainix Hateflower.json"
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Tainix_Hateflower.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Tainix_Hateflower.json"
     },
     "Tallia": {
       "rarity": "epic",
@@ -1783,8 +1783,8 @@
       "affinity": "void",
       "faction": "Orcs",
       "role": "attack",
-      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Tuhak the Wanderer.png",
-      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Tuhak the Wanderer.json"
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Tuhak_the_Wanderer.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Tuhak_the_Wanderer.json"
     },
     "Ultimate Galek": {
       "rarity": "epic",
@@ -1975,8 +1975,8 @@
       "affinity": "magic",
       "faction": "Dwarves",
       "role": "support",
-      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Avir the Alchemage.png",
-      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Avir the Alchemage.json"
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Avir_the_Alchemage.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Avir_the_Alchemage.json"
     },
     "Banshee": {
       "rarity": "rare",
@@ -2223,8 +2223,8 @@
       "affinity": "force",
       "faction": "Dwarves",
       "role": "support",
-      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Dolor Lorekeeper.png",
-      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Dolor Lorekeeper.json"
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Dolor_Lorekeeper.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Dolor_Lorekeeper.json"
     },
     "Doomscreech": {
       "rarity": "rare",
@@ -2247,8 +2247,8 @@
       "affinity": "void",
       "faction": "Undead Hordes",
       "role": "attack",
-      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Drowned Bloatwraith.png",
-      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Drowned Bloatwraith.json"
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Drowned_Bloatwraith.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Drowned_Bloatwraith.json"
     },
     "Dunestrider": {
       "rarity": "rare",
@@ -2386,13 +2386,13 @@
       "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Gladiator.png",
       "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Gladiator.json"
     },
-    "Gloril Brutebane": {
+    "Gloril_Brutebane": {
       "rarity": "rare",
       "affinity": "spirit",
       "faction": "Dwarves",
       "role": "attack",
-      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Gloril Brutebane.png",
-      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Gloril Brutebane.json"
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Gloril_Brutebane.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Gloril_Brutebane.json"
     },
     "Gnarlhorn": {
       "rarity": "rare",
@@ -2959,8 +2959,8 @@
       "affinity": "spirit",
       "faction": "The Sacred Order",
       "role": "defense",
-      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Sanctum Protector.png",
-      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Sanctum Protector.json"
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Sanctum_Protector.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Sanctum_Protector.json"
     },
     "Seducer": {
       "rarity": "rare",
@@ -3919,7 +3919,399 @@
       "affinity": "magic",
       "faction": "The Sacred Order",
       "role": "attack",
-      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Yeoman.png",
-      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Yeoman.json"
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Yeoman.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Yeoman.json"
+    },
+    "King Garog": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "Orcs",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/King_Garog.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/King_Garog.json"
+    },
+    "Roxam": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Lizardmen",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Roxam.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Roxam.json"
+    },
+    "Thea the Tomb Angel": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "Knight Revenant",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Thea_the_Tomb_Angel.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Thea_the_Tomb_Angel.json"
+    },
+    "Yakarl the Scourge": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "Barbarians",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Yakarl_the_Scourge.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Yakarl_the_Scourge.json"
+    },
+    "Alaric the Hooded": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Banner Lords",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Alaric_the_Hooded.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Alaric_the_Hooded.json"
+    },
+    "Anax": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Undead Hordes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Anax.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Anax.json"
+    },
+    "Armina": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Barbarians",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Armina.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Armina.json"
+    },
+    "Fahrakin the Fat": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Barbarians",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Fahrakin_the_Fat.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Fahrakin_the_Fat.json"
+    },
+    "Gerhard the Stone": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Banner Lords",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Gerhard_the_Stone.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Gerhard_the_Stone.json"
+    },
+    "Haarken Greatblade": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "Barbarians",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Haarken_Greatblade.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/HaarkenvGreatblade.json"
+    },
+    "Inquisitor Shamael": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "The Sacred Order",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Inquisitor_Shamael.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Inquisitor_Shamael.json"
+    },
+    "Rugnor Goldgleam": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "Dwarves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Rugnor_Goldgleam.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Rugnor_Goldgleam.json"
+    },
+    "Dagger": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Banner Lords",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Dagger.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Dagger.json"
+    },
+    "Kurzad Deepheart": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Dwarves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Kurzad_Deepheart.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Kurzad_Deepheart.json"
+    },
+    "Panthera": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Skinwalkers",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Panthera.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Panthera.json"
+    },
+    "Pigsticker": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Orcs",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Pigsticker.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Pigsticker.json"
+    },
+    "Ruffstone": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Ogryn Tribes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Ruffstone.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Ruffstone.json"
+    },
+    "Tigersoul": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Barbarians",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Tigersoul.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Tigersoul.json"
+    },
+    "Icebound Prospector": {
+      "rarity": "uncommon",
+      "affinity": "force",
+      "faction": "Dwarves",
+      "role": "force",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Icebound_Prospector.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Icebound_Prospector.json"
+    },
+    "Sandbow": {
+      "rarity": "uncommon",
+      "affinity": "spirit",
+      "faction": "Barbarians",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Sandbow.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Sandbow.json"
+    },
+    "Iron Brago": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Orcs",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Iron_Brago.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Iron_Brago.json"
+    },
+    "Nekhret the Great": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "Undead Hordes",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Nekhret_the_Great.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Nekhret_the_Great.json"
+    },
+    "Akoth the Seared": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Demonspawn",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Akoth_the_Seared.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Akoth_the_Seared.json"
+    },
+    "Balthus Drauglord": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Undead Hordes",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Balthus_Drauglord.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Balthus_Drauglord.json"
+    },
+    "Dhukk the Pierced": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Orcs",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Dhukk_the_Pierced.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Dhukk_the_Pierced.json"
+    },
+    "Tikthaa Blackscale": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Lizardmen",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Tikthaa_Blackscale.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Tikthaa_Blackscale.json"
+    },
+    "Urost the Soulcage": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "Undead Hordes",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Urost_the_Soulcage.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Urost_the_Soulcage.json"
+    },
+    "Bergoth the Malformed": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Knight Revenant",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Bergoth_the_Malformed.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Bergoth_the_Malformed.json"
+    },
+    "Melga Steelgirdle": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Dwarves",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Melga_Steelgirdle.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Melga_Steelgirdle.json"
+    },
+    "Vogoth": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Undead Hordes",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Vogoth.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Vogoth.json"
+    },
+    "Geargrinder": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Ogryn Tribes",
+      "role": "rare",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Geargrinder.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Geargrinder.json"
+    },
+    "Gomlok Skyhide": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "Orcs",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Gomlok_Skyhide.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Gomlok_Skyhide.json"
+    },
+    "Kreela Witch-Arm": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Orcs",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Kreela_Witch-Arm.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Kreela_Witch-Arm.json"
+    },
+    "Pyxniel": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "High Elves",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Pyxniel.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Pyxniel.json"
+    },
+    "Achak the Wendarin": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Demonspawn",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Achak_the_Wendarin.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Achak_the_Wendarin.json"
+    },
+    "Aox the Rememberer": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Lizardmen",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Aox_the_Rememberer.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Aox_the_Rememberer.json"
+    },
+    "Archmage Hellmut": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Banner Lords",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Archmage_Hellmut.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Archmage_Hellmut.json"
+    },
+    "Chancellor Yasmin": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Banner Lords",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Chancellor_Yasmin.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Chancellor_Yasmin.json"
+    },
+    "Crowned Druid": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Lizardmen",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Crowned_Druid.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Crowned_Druid.json"
+    },
+    "Grunch Killjoy": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Ogryn Tribes",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Grunch_Killjoy.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Grunch_Killjoy.json"
+    },
+    "Old Hermit Jorrg": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Orcs",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Old_Hermit_Jorrg.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Old_Hermit_Jorrg.json"
+    },
+    "Rector Drath": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Knight Revenant",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Rector_Drath.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Rector_Drath.json"
+    },
+    "Rian the Conjurer": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Dark Elves",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Rian_the_Conjurer.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Rian_the_Conjurer.json"
+    },
+    "Sanguinia": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "The Sacred Order",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Sanguinia.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Sanguinia.json"
+    },
+    "Ursala the Mourner": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "Banner Lords",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Ursala_the_Mourner.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Ursala_the_Mourner.json"
+    },
+    "Uugo": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Ogryn Tribes",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Uugo.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Uugo.json"
+    },
+    "Gloril Brutebane": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Dwarves",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Gloril_Brutebane.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Gloril_Brutebane.json"
+    },
+    "Wandering Priest": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Barbarians",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Wandering_Priest.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Wandering_Priest.json"
+    },
+    "Suntribe": {
+      "rarity": "uncommon",
+      "affinity": "magic",
+      "faction": "Orcs",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/raid-data/images/avatar/Suntribe.png",
+      "detailsUrl": "https://patpat1567.github.io/raid-data/champion-details/Suntribe.json"
     }
 }
