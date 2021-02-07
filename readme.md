@@ -1,6 +1,6 @@
 # Resources for Raid Shadow Legends
 
-This repository provides resources for Raid Shadow Legends. Anyone is allowed and encouraged to contribute by creating a merge-request.
+This repository provides resources for Raid Shadow Legends. Anyone is allowed and encouraged to contribute by creating a pull request.
 If you're interested in helping in a greater capacity, please get in touch. I would like more people to help moderate and update the content/data in this repository.
 
 # Champion lists
@@ -20,6 +20,5 @@ The data available in this repository has been sourced from:
 
 # Todo
 
-* Add champion icons
-* Figure out data-format to represent skills
-* Add champion detail-files with base-info, stats, abilities, books/skill improvements
+* Update Champions
+* Indicate Champs that are unable to pull, based on shard
