@@ -204,6 +204,7 @@
       "affinity": "magic",
       "faction": "Undead Hordes",
       "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Elegaius.png",
       "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Elegaius.json"
     },
     "Elenaril": {
@@ -355,6 +356,7 @@
       "affinity": "void",
       "faction": "Undead Hordes",
       "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Little_Miss_Annie.png",
       "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Little_Miss_Annie.json"
     },
     "Longbeard": {
@@ -394,6 +396,7 @@
       "affinity": "void",
       "faction": "Dark Elves",
       "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Lydia_the_Deathsiren.png",
       "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Lydia_the_Deathsiren.json"
     },
     "Lyssandra": {
@@ -425,6 +428,7 @@
       "affinity": "spirit",
       "faction": "Banner Lords",
       "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Masked_Fearmonger.png",
       "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Masked_Fearmonger.json"
     },
     "Maulie Tankard": {
@@ -464,6 +468,7 @@
       "affinity": "magic",
       "faction": "Knight Revenant",
       "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Narma_the_Returned.png",
       "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Narma_the_Returned.json"
     },
     "Nethril": {
@@ -4121,14 +4126,6 @@
       "role": "defense",
       "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Dhukk_the_Pierced.png",
       "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Dhukk_the_Pierced.json"
-    },
-    "Tikthaa Blackscale": {
-      "rarity": "legendary",
-      "affinity": "spirit",
-      "faction": "Lizardmen",
-      "role": "hp",
-      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Tikthaa_Blackscale.png",
-      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Tikthaa_Blackscale.json"
     },
     "Urost the Soulcage": {
       "rarity": "legendary",
