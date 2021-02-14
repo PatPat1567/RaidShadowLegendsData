@@ -4310,5 +4310,165 @@
       "role": "support",
       "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Suntribe.png",
       "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Suntribe.json"
+    },
+    "Astralon": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "The Sacred Order",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Astralon.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Astralon.json"
+    },
+    "Nogdar the Headhunter": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Orcs",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Nogdar_the_Headhunter.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Nogdar_the_Headhunter.json"
+    },
+    "Samar Gemcursed": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Dwarves",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Samar_Gemcursed.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Samar_Gemcursed.json"
+    },
+    "Cardiel": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "The Sacred Order",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Cardiel.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Cardiel.json"
+    },
+    "Countess Lix": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Demonspawn",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Countess_Lix.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Countess_Lix.json"
+    },
+    "Sicia Flametongue": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "Demonspawn",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Sicia_Flametongue.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Sicia_Flametongue.json"
+    },
+    "Runekeeper Dazdurk": {
+      "rarity": "epic",
+      "affinity": "coid",
+      "faction": "Dwarves",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Runekeeper_Dazdurk.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Runekeeper_Dazdurk.json"
+    },
+    "Deacon Armstrong": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "The Sacred Order",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Deacon_Armstrong.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Deacon_Armstrong.json"
+    },
+    "Quargan the Crowned": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Lizardmen",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Quargan_the_Crowned.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Quargan_the_Crowned.json"
+    },
+    "Pestilus": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Knights Revenant",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Pestilus.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Pestilus.json"
+    },
+    "Lodric Falconheart": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "The Sacred Order",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Lodric_Falconheart.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Lodric_Falconheart.json"
+    },
+    "Fodbor the Bard": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Dwarves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Fodbor_the_Bard.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Fodbor_the_Bard.json"
+    },
+    "Godseeker Aniri": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "The Sacred Order",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Godseeker_Aniri.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Godseeker_Aniri.json"
+    },
+    "Klodd Beastfeeder": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Ogryn Tribes",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Klodd_Beastfeeder.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Klodd_Beastfeeder.json"
+    },
+    "Prundar": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "Ogryn Tribes",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Prundar.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Prundar.json"
+    },
+    "Tarshon": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Demonspawn",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Tarshon.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Tarshon.json"
+    },
+    "Boltsmith": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Dwarves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Boltsmith.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Boltsmith.json"
+    },
+    "Scrapper": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Barbarians",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Scrapper.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Scrapper.json"
+    },
+    "Abyssal": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Demonspawn",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Abyssal.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Abyssal.json"
+    },
+    "Flailer": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Dwarves",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Flailer.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Flailer.json"
     }
 }
