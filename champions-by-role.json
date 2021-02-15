@@ -253,7 +253,14 @@
         "Sister Militant",
         "Swordsman",
         "Thrall",
-        "Yeoman"        
+        "Yeoman",
+        "Astralon",
+        "Nogdar the Headhunter",
+        "Countess Lix",
+        "Sicia Flametongue",
+        "Fodbor the Bard",
+        "Boltsmith",
+        "Scrapper"
     ],
     "defense": [
         "Altan",
@@ -350,7 +357,11 @@
         "Knecht",
         "Pikeman",
         "Troglodyte",
-        "Warboy"
+        "Warboy",
+        "Godseeker Aniri",
+        "Prundar",
+        "Tarshon",
+        "Flailer"
     ],
     "hp": [
         "Angar",
@@ -424,7 +435,10 @@
         "Warchanter",
         "Axeman",
         "Deathknight",
-        "Preacher"
+        "Preacher",
+        "Samar Gemcursed",
+        "Lodric Falconheart",
+        "Klodd Beastfeeder"
     ],
     "support": [
         "Arbiter",
@@ -543,6 +557,12 @@
         "Suntribe",
         "Vilespawn",
         "Windtalker",
-        "Word Bearer"
+        "Word Bearer",
+        "Cardiel",
+        "Runekeeper Dazdurk",
+        "Deacon Armstrong",
+        "Quargan the Crowned",
+        "Pestilus",
+        "Abyssal"
     ]
 }

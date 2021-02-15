@@ -110,7 +110,13 @@
         "Wurlim Frostking",
         "Yakarl the Scourge",
         "Yannica",
-        "Zavia"
+        "Zavia",
+        "Astralon",
+        "Nogdar the Headhunter",
+        "Samar Gemcursed",
+        "Cardiel",
+        "Countess Lix",
+        "Sicia Flametongue"
     ],
     "epic": [
         "Achak the Wendarin",
@@ -276,7 +282,17 @@
         "Woad-Painted",
         "Yaga the Insatiable",
         "Zargala",
-        "Zelotah"
+        "Zelotah",
+        "Runekeeper Dazdurk",
+        "Deacon Armstrong",
+        "Quargan the Crowned",
+        "Pestilus",
+        "Lodric Falconheart",
+        "Fodbor the Bard",
+        "Godseeker Aniri",
+        "Klodd Beastfeeder",
+        "Prundar",
+        "Tarshon"
     ],
     "rare": [
         "Acolyte",
@@ -455,7 +471,11 @@
         "Warpriest",
         "Witness",
         "Wretch",
-        "Wyvernbane"
+        "Wyvernbane",
+        "Boltsmith",
+        "Scrapper",
+        "Abyssal",
+        "Flailer"
     ],
     "uncommon": [
         "Admonitor",

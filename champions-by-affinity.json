@@ -103,7 +103,12 @@
         "Stitched Beast",
         "Stoneskin",
         "Vanguard",
-        "Veteran"
+        "Veteran",
+        "Cardiel",
+        "Runekeeper Dazdurk",
+        "Godseeker Aniri",
+        "Prundar",
+        "Scrapper"
     ],
     "force": [
         "Abbess",
@@ -251,7 +256,9 @@
         "Axeman",
         "Preacher",
         "Ranger",
-        "Sister Militant"
+        "Sister Militant",
+        "Sicia Flametongue",
+        "Boltsmith"
     ],
     "magic": [
         "Altan",
@@ -402,7 +409,11 @@
         "Swordsman",
         "Thrall",
         "Warboy",
-        "Yeoman"
+        "Yeoman",
+        "Astralon",
+        "Countess Lix",
+        "Klodd Beastfeeder",
+        "Flailer"
     ],
     "spirit": [
         "Astralith",
@@ -541,6 +552,15 @@
         "Knecht",
         "Magekiller",
         "Novitiate",
-        "Troglodyte"
+        "Troglodyte",
+        "Nogdar the Headhunter",
+        "Samar Gemcursed",
+        "Deacon Armstrong",
+        "Quargan the Crowned",
+        "Pestilus",
+        "Lodric Falconheart",
+        "Fodbor the Bard",
+        "Tarshon",
+        "Abyssal"
     ]
 }

@@ -105,7 +105,8 @@
         "Shieldguard",
         "Spiritwalker",
         "Zephyr Sniper",
-        "Bully"
+        "Bully",
+        "Scrapper"
     ],
     "Dark Elves": [
         "Astralith",
@@ -186,7 +187,11 @@
         "Lemure",
         "Pit Cur",
         "Pitspawn",
-        "Vilespawn"
+        "Vilespawn",
+        "Abyssal",
+        "Tarshon",
+        "Sicia Flametongue",
+        "Countess Lix"
     ],
     "High Elves": [
         "Arbiter",
@@ -260,7 +265,8 @@
         "Admonitor",
         "Cultist",
         "Herald",
-        "Thrall"
+        "Thrall",
+        "Pestilus"
     ],
     "Lizardmen": [
         "Dracomorph",
@@ -292,7 +298,8 @@
         "Saurus",
         "Skinner",
         "Stalker",
-        "Troglodyte"
+        "Troglodyte",
+        "Quargan the Crowned"
     ],
     "Ogryn Tribes": [
         "Big ‘Un",
@@ -330,7 +337,9 @@
         "Frostskin",
         "Hungerer",
         "Oldbeard",
-        "Thrasher"
+        "Thrasher",
+        "Klodd Beastfeeder",
+        "Prundar"
     ],
     "Orcs": [
         "Angar",
@@ -374,7 +383,8 @@
         "Throatcutter",
         "Tracker",
         "Warchanter",
-        "Warboy"
+        "Warboy",
+        "Nogdar the Headhunter"
     ],
     "Skinwalkers": [
         "Brakus the Shifter",
@@ -465,7 +475,12 @@
         "Novitiate",
         "Preacher",
         "Sister Militant",
-        "Yeoman"
+        "Yeoman",
+        "Astralon",
+        "Cardiel",
+        "Deacon Armstrong",
+        "Lodric Falconheart",
+        "Godseeker Aniri"
     ],
     "Undead Hordes": [
         "Bad-el-Kazar",
@@ -559,6 +574,11 @@
         "Icebound Prospector",
         "Line Infantry",
         "Slicer",
-        "Tunnel Steward"
+        "Tunnel Steward",
+        "Flailer",
+        "Boltsmith",
+        "Fodbor the Bard",
+        "Runekeeper Dazdurk",
+        "Samar Gemcursed"
     ]
 }
