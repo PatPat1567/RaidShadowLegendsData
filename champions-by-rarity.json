@@ -116,7 +116,10 @@
         "Samar Gemcursed",
         "Cardiel",
         "Countess Lix",
-        "Sicia Flametongue"
+        "Sicia Flametongue",
+        "Genzin",
+        "Yoshi the Drunkard",
+        "Jintoro"
     ],
     "epic": [
         "Achak the Wendarin",
@@ -292,7 +295,11 @@
         "Godseeker Aniri",
         "Klodd Beastfeeder",
         "Prundar",
-        "Tarshon"
+        "Tarshon",
+        "Sachi",
+        "Oboro",
+        "Toragi the Frog",
+        "Chonoru"
     ],
     "rare": [
         "Acolyte",
@@ -475,7 +482,10 @@
         "Boltsmith",
         "Scrapper",
         "Abyssal",
-        "Flailer"
+        "Flailer",
+        "Fanatic",
+        "Lifetaker",
+        "Bloodmask"
     ],
     "uncommon": [
         "Admonitor",
@@ -545,7 +555,9 @@
         "Warchanter",
         "Windtalker",
         "Word Bearer",
-        "Zephyr Sniper"
+        "Zephyr Sniper",
+        "Conscript",
+        "Infiltrator"
     ],
     "common": [
         "Axeman",
