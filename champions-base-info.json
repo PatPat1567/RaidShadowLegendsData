@@ -6488,5 +6488,145 @@
         "ancient",
         "mystery"
       ]
+    },
+    "Genzin": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Shadowkin",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Genzin.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Genzin.json",
+      "pullableShard" : [
+        "sacred",
+        "ancient"
+      ]
+    },
+    "Yoshi the Drunkard": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "Shadowkin",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Yoshi_the_Drunkard.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Yoshi_the_Drunkard.json",
+      "pullableShard" : [
+        "sacred",
+        "ancient"
+      ]
+    },
+    "Jintoro": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Shadowkin",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Jintoro.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Jintoro.json",
+      "pullableShard" : [
+        "sacred",
+        "ancient"
+      ]
+    },
+    "Sachi": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Shadowkin",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Sachi.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Sachi.json",
+      "pullableShard" : [
+        "sacred",
+        "ancient"
+      ]
+    },
+    "Oboro": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "Shadowkin",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Oboro.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Oboro.json",
+      "pullableShard" : [
+        "void"
+      ]
+    },
+    "Toragi the Frog": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Shadowkin",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Toragi_the_Frog.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Toragi_the_Frog.json",
+      "pullableShard" : [
+        "sacred",
+        "ancient"
+      ]
+    },
+    "Chonoru": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Shadowkin",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Chonoru.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Chonoru.json",
+      "pullableShard" : [
+        "sacred",
+        "ancient"
+      ]
+    },
+    "Fanatic": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Shadowkin",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Fanatic.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Fanatic.json",
+      "pullableShard" : [
+        "void"
+      ]
+    },
+    "Lifetaker": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Shadowkin",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Lifetaker.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Lifetaker.json",
+      "pullableShard" : [
+        "ancient",
+        "mystery"
+      ]
+    },
+    "Bloodmask": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Shadowkin",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Bloodmask.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Bloodmask.json",
+      "pullableShard" : [
+        "ancient",
+        "mystery"
+      ]
+    },
+    "Conscript": {
+      "rarity": "uncommon",
+      "affinity": "magic",
+      "faction": "Shadowkin",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Conscript.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Conscript.json",
+      "pullableShard" : [
+        "mystery"
+      ]
+    },
+    "Infiltrator": {
+      "rarity": "uncommon",
+      "affinity": "force",
+      "faction": "Shadowkin",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Infiltrator.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Infiltrator.json",
+      "pullableShard" : [
+        "mystery"
+      ]
     }
 }

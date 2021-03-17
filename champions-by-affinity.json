@@ -108,7 +108,9 @@
         "Runekeeper Dazdurk",
         "Godseeker Aniri",
         "Prundar",
-        "Scrapper"
+        "Scrapper",
+        "Oboro",
+        "Fanatic"
     ],
     "force": [
         "Abbess",
@@ -258,7 +260,11 @@
         "Ranger",
         "Sister Militant",
         "Sicia Flametongue",
-        "Boltsmith"
+        "Boltsmith",
+        "Yoshi the Drunkard",
+        "Sachi",
+        "Bloodmask",
+        "Infiltrator"
     ],
     "magic": [
         "Altan",
@@ -413,7 +419,11 @@
         "Astralon",
         "Countess Lix",
         "Klodd Beastfeeder",
-        "Flailer"
+        "Flailer",
+        "Jintoro",
+        "Toragi the Frog",
+        "Lifetaker",
+        "Conscript"
     ],
     "spirit": [
         "Astralith",
@@ -561,6 +571,8 @@
         "Lodric Falconheart",
         "Fodbor the Bard",
         "Tarshon",
-        "Abyssal"
+        "Abyssal",
+        "Genzin",
+        "Chonoru"
     ]
 }

@@ -260,7 +260,13 @@
         "Sicia Flametongue",
         "Fodbor the Bard",
         "Boltsmith",
-        "Scrapper"
+        "Scrapper",
+        "Genzin",
+        "Jintoro",
+        "Oboro",
+        "Chonoru",
+        "Lifetaker",
+        "Infiltrator"
     ],
     "defense": [
         "Altan",
@@ -361,7 +367,8 @@
         "Godseeker Aniri",
         "Prundar",
         "Tarshon",
-        "Flailer"
+        "Flailer",
+        "Conscript"
     ],
     "hp": [
         "Angar",
@@ -438,7 +445,9 @@
         "Preacher",
         "Samar Gemcursed",
         "Lodric Falconheart",
-        "Klodd Beastfeeder"
+        "Klodd Beastfeeder",
+        "Toragi the Frog",
+        "Bloodmask"
     ],
     "support": [
         "Arbiter",
@@ -563,6 +572,9 @@
         "Deacon Armstrong",
         "Quargan the Crowned",
         "Pestilus",
-        "Abyssal"
+        "Abyssal",
+        "Yoshi the Drunkard",
+        "Sachi",
+        "Fanatic"
     ]
 }
